@@ -5,6 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\css\Styles.css" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="wwwroot\css\Styles.css" />
   </ItemGroup>
   <ItemGroup>
